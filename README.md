@@ -17,3 +17,7 @@ And then execute:
 ## Usage
 
 To post a random Clients From Hell story into a room, type ```!clientsfromhell``` or ```!cfh``` in chat.
+
+## Links
+
+* [isis-plugin-clientsfromhell on RubyGems](https://rubygems.org/gems/isis-plugin-clientsfromhell)
